@@ -46,12 +46,10 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
 [![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehul2410)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 [instagram]: https://instagram.com/mehul1824
 [linkedin]: https://www.linkedin.com/in/mehul-gawhale
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
