@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mehul's GitHub Stats" src="https://github-readme-stats.mehul2410.vercel.app/api?username=Mehul2410&show_icons=true&hide_border=true" />
+[![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehul2410)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
