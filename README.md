@@ -37,8 +37,8 @@
 
 [![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehul2410)](https://github.com/anuraghazra/github-readme-stats)
 
-[instagram]: https://instagram.com/mehul1824
-[linkedin]: https://www.linkedin.com/in/mehul-gawhale
+[instagram]: https://instagram.com/mehul24_gawhale_/
+[linkedin]: https://www.linkedin.com/in/mehul-gawhale/
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
