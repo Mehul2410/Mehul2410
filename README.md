@@ -41,6 +41,10 @@
 [linkedin]: https://www.linkedin.com/in/mehul-gawhale/
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   2 hrs 4 mins    ███████████████████▓░░░░░   78.40 % 
+Markdown     17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+HTML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 <!--END_SECTION:waka-->
