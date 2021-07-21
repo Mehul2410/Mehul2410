@@ -35,15 +35,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 [![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehul2410)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/mehul1824
