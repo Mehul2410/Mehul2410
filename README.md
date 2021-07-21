@@ -46,8 +46,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img align="left" alt="Mehul's GitHub Stats" src="https://github-readme-stats-mehul2410.vercel.app/api?username=Mehul2410&show_icons=true&hide_border=true" />
 
 </details>
 
