@@ -1,4 +1,3 @@
-﻿### Hi there 👋
 ### Hi there, I'm Mehul Gawhale 👋
 
 ## I'm a IT Engineering Student, Developer, and Teacher!!
