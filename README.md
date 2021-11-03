@@ -40,8 +40,6 @@
 [linkedin]: https://www.linkedin.com/in/mehul-gawhale/
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 53 mins   ███████████████████████▒░   93.92 % 
-JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JSX          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python   2 hrs 48 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
