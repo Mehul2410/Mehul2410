@@ -1,6 +1,6 @@
 ### Hi there, I'm Mehul Gawhale 👋
 
-## I'm a IT Engineering Student, Developer, and Teacher!!
+## I'm a IT Engineering Student, Developer, and Change Maker!!
 
 - 🌱 I’m currently learning App Development
 - 👯 I’m looking to collaborate with other content creators
