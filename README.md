@@ -40,8 +40,6 @@
 [linkedin]: https://www.linkedin.com/in/mehul-gawhale/
 <!--START_SECTION:waka-->
 ```text
-Total: 32 hrs 59 mins
-
 TypeScript   28 hrs          █████████████████████▒░░░   84.74 % 
 JSON         2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 JavaScript   1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
