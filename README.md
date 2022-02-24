@@ -40,10 +40,10 @@
 [linkedin]: https://www.linkedin.com/in/mehul-gawhale/
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 56 mins  ███████████████████▓░░░░░   78.08 % 
-JSON         1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-JavaScript   55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Solidity     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+TypeScript   7 hrs 10 mins   ███████████████████▒░░░░░   76.95 % 
+JSON         1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+JavaScript   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
