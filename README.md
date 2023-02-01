@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other        4 mins          █████████████████████▒░░░   85.48 %
 ```
 
 <!--END_SECTION:waka-->
